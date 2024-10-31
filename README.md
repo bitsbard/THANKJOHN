@@ -1,2 +1,2 @@
-# THANKJOHN
-A platform for businesses and developers to showcase and discover AI tools.
+# THANK JOHN
+[thankjohn.com](https://www.thankjohn.com/) is a comprehensive platform for businesses and developers to showcase and discover the latest AI tools. Designed to make AI more accessible, it provides a free, user-friendly space for developers to submit their tools, gain visibility, and connect with an engaged audience. Businesses can explore a wide array of AI innovations, bookmark, and review tools, helping them stay on top of emerging trends in artificial intelligence. Submit your tool today to reach an active community passionate about AI.
